@@ -1,6 +1,6 @@
 {
   "name": "generator-tiny-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A tiny Yeoman generator for TypeScript client projects.",
   "license": "MIT",
   "main": "app/index.js",
