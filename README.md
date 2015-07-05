@@ -4,6 +4,10 @@
 
 ## Getting Started
 
+### Features
+
+The template generator creates a complete TypeScript project setup. Including a gulpfile that is able to maintain a standard `tsconfig.json` file for maxiumum editor compatibilty. There is no gulpfile TypeScript compiler magic involved! The gulp build task simply calls your installed TypeScript compiler which automatically picks up the setup in the tsconfig.json file.
+
 ### Installation
 
 ```bash
